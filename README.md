@@ -1,2 +1,2 @@
-# compress
-Web analytics plugins
+# Compress
+Web analytics plugins for WP
